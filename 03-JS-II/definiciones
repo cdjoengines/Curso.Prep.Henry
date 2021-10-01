@@ -1,0 +1,15 @@
+// definición For: Esta expresión nos es útil cuando necesitamos repetir un proceso muchas veces, de
+esta manera no tenemos que rescribir lo mismo una y otra vez, para ello, dentro de dicha expresión incluimos 3 cosas:
+una variable que es la única cosa que va cambiando cada vez que se repite el proceso, una condición, que es lo que
+deseamos comprobar acerca de la variable cada vez y por último, le añadimos "i++" para decirle a nuestro código que queremos.//
+que la variable que definimos inicialmente vaya incrementándose cada vez que se avalúe. estas 3 cosas van separadas por ";" y entre ().
+// definición &&: Es un operador, al igual que los operadores matemáticos que ya conocemos como "+" para suma y "-" para la resta
+solo que a diferencia de los anteriores que son operadores matemáticos, && es un operador lógico, lo usamos en javascript como el equivalente
+de "y" en el español o "and" en inglés y funciona del mismo modo, en nuestro código, usamos && cuando necesitamos que dos o más
+condiciones o declaraciones se cumplan al mismo tiempo.//
+// definición ||: En javascript, || es el equivalente de "o" o en "or" en inglés, funciona muy parecido a && solo que en este caso,
+usamos || cuando evaluamos al menos 2 condiciones y nos basta que una de ellas se cumpla para que lo que queremos que ocurra
+como resultado se dé.//
+// definición !: Es un operador para negar cualquier expresión que escribamos, es tan simple como pensar en todo lo contrario
+a lo que sae que se anteponga, si decimos que es igual pero le colocamos "!" entonces significa diferente, y esto aplica para
+cualquier tipo de comparación.//
